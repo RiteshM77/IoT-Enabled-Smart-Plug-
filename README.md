@@ -23,4 +23,3 @@ The "IoT Enabled Smart Plug" project provides numerous benefits to users, includ
 **Applications:**
 This project can be used in various applications, such as home automation, office automation, and industrial settings. It empowers users to have greater control over their electrical devices while promoting energy efficiency.
 
-In summary, the "IoT Enabled Smart Plug" project combines the power of IoT technology with the versatility of the NodeMCU ESP8266 and the user-friendly Blynk app to create a smart, energy-efficient solution for managing and controlling electrical appliances. With features like remote control, power scheduling, and real-time monitoring, it provides a seamless and convenient way to make homes and workplaces smarter and more efficient.
